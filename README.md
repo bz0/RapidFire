@@ -8,7 +8,8 @@ curl_multiを使った並列リクエストライブラリです。
 ### 例：
 
 ```php
-	//リクエストしたいURLを設定
+<?php
+    //リクエストしたいURLを設定
     $urlList = array(
         "https://xx.xx.xx”,
         "https://xx.xx.xx”,
@@ -39,7 +40,8 @@ http://php.net/manual/ja/function.curl-setopt.php
 ### 例：
 
 ```php
-	//リクエストしたいURLを設定
+<?php
+    //リクエストしたいURLを設定
     $urlList = array(
         "https://xx.xx.xx”,
         array(
