@@ -34,7 +34,7 @@ CURLのオプションを指定する場合は、配列に設定します。
 
 
 url：リクエストするURL
-curl_option: curl_set_optのオプション
+curl_option: curl_set_optのオプション  
 http://php.net/manual/ja/function.curl-setopt.php
 
 ### 例：
